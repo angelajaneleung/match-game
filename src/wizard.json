@@ -1,50 +1,62 @@
 [
     {
       "id": 1,
-      "image": "draco.jpg"
+      "image": "dog1.jpg"
     },
     {
       "id": 2,
-      "image": "dumbledore.jpg"    
+      "image": "dog2.jpg"    
     },
     {
       "id": 3,
-      "image": "fred.jpg"
+      "image": "dog3.jpg"
     },
     {
       "id": 4,
-      "image": "george.jpg" 
+      "image": "dog4.jpg" 
     },
     {
       "id": 5,
-      "image": "ginny.jpg"
+      "image": "dog5.jpg"
     },
     {
       "id": 6,
-      "image": "hagrid.jpg"
+      "image": "dog6.jpg"
     },
     {
       "id": 7,
-      "image": "harry.jpg"
+      "image": "dog7.jpg"
     },
     {
       "id": 8,
-      "image": "hermione.jpg"
+      "image": "dog8.jpg"
     },
     {
       "id": 9,
-      "image": "luna.jpg"
+      "image": "dog9.jpg"
     },
     {
       "id": 10,
-      "image": "mcgonagall.jpg"
+      "image": "dog10.jpg"
     },
     {
       "id": 11,
-      "image": "ron.jpg"
+      "image": "dog11.jpg"
     },
     {
       "id": 12,
-      "image": "snape.jpg"
+      "image": "dog12.jpg"
+    },
+    {
+      "id": 13,
+      "image": "dog13.jpg"
+    },
+    {
+      "id": 14,
+      "image": "dog14.jpg"
+    },
+    {
+      "id": 15,
+      "image": "dog15.jpg"
     }
   ]

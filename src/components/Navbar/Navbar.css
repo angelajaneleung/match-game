@@ -1,3 +1,4 @@
+
 .navbar li {
     display: inline-block;
     text-align: center;
@@ -23,8 +24,11 @@
   li {
     color: white;
     padding: 15px 0;
+
   }
   
   body {
     font-size: 24px;
+    font-family: 'Liu Jian Mao Cao', cursive;
+
   }
