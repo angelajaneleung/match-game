@@ -2,7 +2,7 @@
   "name": "memory-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rachelemoose.github.io/Harry-Potter-Memory-Game/",
+  "homepage": "https://github.com/angelajaneleung/match-game.git",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
