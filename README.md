@@ -1,9 +1,8 @@
-# Harry Potter Memory Game
+# Doggo Memory Game 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## How to Play
-Click on the wizards for points! But if you click on the same wizard more than once, you lose. See if you can remember all 12 without double clicking on any, if so, you win!
+# How to Play
+Click on the dog pics  for points! But if you click on the same picture more than once, you lose. See if you can remember all 15 without double clicking on any, if so, you win!
 
 
 ## Available Scripts
@@ -31,6 +30,6 @@ Run `npm start` to load the app. This will take you to localhost:3000 in your br
 
 ## Deployment
 
-This game is deployed and hosted here: https://rachelemoose.github.io/Harry-Potter-Memory-Game/
+
 
 

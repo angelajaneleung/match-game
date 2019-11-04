@@ -1,9 +1,9 @@
-// sets up reusable component for WizardCard
+// sets up reusable component for DogCard
 import React from "react";
-import "./WizardCard.css";
+import "./DogCard.css";
 
 // pass the image into each card
-const WizardCard = props => (
+const DogCard = props => (
     <div className="card" onClick={props.imageClick}>
         <div className="img-container">
       <img alt={props.image.replace(".jpg", "")} src={require("../../images/" + props.image)} />
@@ -12,4 +12,4 @@ const WizardCard = props => (
 
 );
 
-export default WizardCard;
+export default DogCard;
